@@ -1,2 +1,5 @@
 # java-practice
-Weekly Java Practice - Exceptions &amp; Strings 
+Weekly Java Practice focusing on:
+- Exception handling
+- String manipulation
+- Core Java concepts 
